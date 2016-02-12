@@ -5,6 +5,8 @@
  */
 package javaapplication78;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Oscar
@@ -15,7 +17,9 @@ public class JavaApplication78 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        JOptionPane.showMessageDialog(null, "Hola Mundo");
+        
     }
     
 }
