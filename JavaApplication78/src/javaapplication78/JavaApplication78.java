@@ -19,6 +19,8 @@ public class JavaApplication78 {
     public static void main(String[] args) {
         
         JOptionPane.showMessageDialog(null, "Hola Mundo");
+        JOptionPane.showMessageDialog(null, "Esta es Tarea"); //Oscar
+        JOptionPane.showMessageDialog(null, "Prueba"); // Tambien escrito por mi
         
     }
     
